@@ -1,0 +1,1 @@
+This lab teaches Git commands, commits, and repository history.
